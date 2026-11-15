@@ -1,8 +1,6 @@
 Hi, I’m Simón Sánchez Segura (@ssanchez77), an Electronic Engineer from Costa Rica.
 
-I like Theology, Electronics, Programming, Computers, Math, Science, Video Games and other stuff.
-
-I’m currently learning DevOps, Python and Arduino.
+I like Theology, Electronics, Programming, Computers, Math, Science, Board Games and other stuff.
 
 If you want to contact me please send an email to ssanchez77 AT gmail.com
 
